@@ -5,6 +5,9 @@
   title: Posts
   extension: md
   fields:
+    - key: info
+      type: info
+      content: "Toon voorbeeld http://localhost:13131/nieuws/"
     - key: title
       title: Title
       type: string
