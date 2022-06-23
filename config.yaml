@@ -1,3 +1,8 @@
 baseURL: https://buwa-jamstack.github.io/nieuws/
 title: BuWa Nieuws
 theme: buwanieuws
+markup:
+  goldmark:
+    renderer:
+      unsafe: true
+      hardWraps: true
