@@ -6,6 +6,10 @@ build:
   - key: default
     config: config.yaml
 menu:
+  - key: content
+    title: Content
+    menuItems:
+      - key: post
   - key: settings
     title: Settings
     menuItems:
