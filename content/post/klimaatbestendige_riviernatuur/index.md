@@ -4,7 +4,7 @@ resources: []
 
 ---
 
-{{< figure src="./images/droogvallende_oesters.png" class=right width=400 >}} 
+{{< figure src="./images/droogvallende_oesters.png"  title="Droogvallende oesters" class=right width=400 >}} 
 **Klimaatverandering kan grote effecten hebben op de natuur. Extreme weersomstandigheden zorgen het ene moment voor droogte, het andere moment juist voor wateroverlast. Hoe reageert de flora en fauna hierop? En wat kunnen beheerders doen?
 Bureau Waardenburg, HKV lijn in water, Deltares, de Radboud Universiteit, KWR, SOVON, RAVON en FLORON hebben dit samen in beeld gebracht, in opdracht van OBN (VNBE).**
 
